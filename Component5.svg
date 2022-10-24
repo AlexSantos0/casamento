@@ -1,9 +1,9 @@
-<svg width="64" height="67" viewBox="0 0 64 67" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect x="15" y="10" width="47" height="47" fill="url(#pattern0)"/>
-<line x1="1" y1="50" x2="0.999998" y2="4.46035e-08" stroke="#8E4545" stroke-width="2"/>
-<line x1="63" y1="17" x2="63" y2="67" stroke="#8E4545" stroke-width="2"/>
-<line x1="49" y1="1" x2="2" y2="1" stroke="#8E4545" stroke-width="2"/>
-<line x1="15" y1="66" x2="62" y2="66" stroke="#8E4545" stroke-width="2"/>
+<svg width="66" height="67" viewBox="0 0 66 67" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="16" y="10" width="47" height="47" fill="url(#pattern0)"/>
+<line x1="1.5" y1="50" x2="1.5" y2="6.69052e-08" stroke="#8E4545" stroke-width="3"/>
+<line x1="64.5" y1="17" x2="64.5" y2="67" stroke="#8E4545" stroke-width="3"/>
+<line x1="50" y1="1.5" x2="3" y2="1.5" stroke="#8E4545" stroke-width="3"/>
+<line x1="16" y1="65.5" x2="63" y2="65.5" stroke="#8E4545" stroke-width="3"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_191_3" transform="scale(0.00195312)"/>

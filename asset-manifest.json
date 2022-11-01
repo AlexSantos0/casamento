@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/casamento/static/css/main.64e57348.css",
-    "main.js": "/casamento/static/js/main.5c1371c7.js",
+    "main.js": "/casamento/static/js/main.740014f1.js",
     "static/css/445.9e868122.chunk.css": "/casamento/static/css/445.9e868122.chunk.css",
     "static/js/445.4e9a26e4.chunk.js": "/casamento/static/js/445.4e9a26e4.chunk.js",
-    "static/js/735.ab6c3b9d.chunk.js": "/casamento/static/js/735.ab6c3b9d.chunk.js",
+    "static/js/735.4c040882.chunk.js": "/casamento/static/js/735.4c040882.chunk.js",
     "static/media/flor1.svg": "/casamento/static/media/flor1.fdce00c32a807e5c5ce5.svg",
     "static/media/back-flor-senha.png": "/casamento/static/media/back-flor-senha.951be54f4f1978811570.png",
     "static/media/textura.svg": "/casamento/static/media/textura.8e8f8d3f2e8ecfe9ffcb.svg",
@@ -16,13 +16,13 @@
     "static/media/Component4.svg": "/casamento/static/media/Component4.c2cda87630cb931dfb2a.svg",
     "static/media/Group5.svg": "/casamento/static/media/Group5.e8c19e1eae3ad9e5b33a.svg",
     "main.64e57348.css.map": "/casamento/static/css/main.64e57348.css.map",
-    "main.5c1371c7.js.map": "/casamento/static/js/main.5c1371c7.js.map",
+    "main.740014f1.js.map": "/casamento/static/js/main.740014f1.js.map",
     "445.9e868122.chunk.css.map": "/casamento/static/css/445.9e868122.chunk.css.map",
     "445.4e9a26e4.chunk.js.map": "/casamento/static/js/445.4e9a26e4.chunk.js.map",
-    "735.ab6c3b9d.chunk.js.map": "/casamento/static/js/735.ab6c3b9d.chunk.js.map"
+    "735.4c040882.chunk.js.map": "/casamento/static/js/735.4c040882.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64e57348.css",
-    "static/js/main.5c1371c7.js"
+    "static/js/main.740014f1.js"
   ]
 }
